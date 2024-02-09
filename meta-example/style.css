@@ -1,0 +1,13 @@
+html {
+    background-color: green;
+}
+
+ul {
+    background-color: red;
+    padding: 16px;
+    border: 1px solid black;
+}
+
+li {
+    margin-left: 24px;
+}
