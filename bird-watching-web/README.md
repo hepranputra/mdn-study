@@ -1,2 +1,2 @@
 ##Screenshot
-!(Screenshot of bird watcher website)[images/screenshot.png]
+![Screenshot of bird watcher website](images/screenshot.png)
